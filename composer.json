@@ -7,5 +7,7 @@
             "email": "shayaanmomin.sm@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/console": "^7.1"
+    }
 }
