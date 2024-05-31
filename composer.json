@@ -1,0 +1,11 @@
+{
+    "name": "shaya/composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Shayaan",
+            "email": "shayaanmomin.sm@gmail.com"
+        }
+    ],
+    "require": {}
+}
